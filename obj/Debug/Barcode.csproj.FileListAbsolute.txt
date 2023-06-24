@@ -1,0 +1,104 @@
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\Barcode.exe.config
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\Barcode.exe
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\Barcode.pdb
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\Guna.UI2.dll
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\System.Buffers.dll
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\System.Drawing.Common.dll
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\System.Memory.dll
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\System.Text.Json.dll
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\System.ValueTuple.dll
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\System.Buffers.xml
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\System.Memory.xml
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\System.Text.Json.xml
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\System.ValueTuple.xml
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\obj\Debug\Barcode.csproj.AssemblyReference.cache
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\obj\Debug\Barcode.AlertBoxOK.resources
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\obj\Debug\Barcode.AlertBoxYesNo.resources
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\obj\Debug\Barcode.forgotpassword.resources
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\obj\Debug\Barcode.login.resources
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\obj\Debug\Barcode.manageprofile.resources
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\obj\Debug\Barcode.register.resources
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\obj\Debug\Barcode.splash.resources
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\obj\Debug\Barcode.userdashboard.resources
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\obj\Debug\Barcode.csproj.GenerateResource.cache
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\obj\Debug\Barcode.csproj.CoreCompileInputs.cache
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\obj\Debug\Barcode.csproj.CopyComplete
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\obj\Debug\Barcode.exe
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\obj\Debug\Barcode.pdb
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\obj\Debug\Barcode.Barcodegenerater.resources
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\obj\Debug\Barcode.barcodescanner.resources
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\zxing.dll
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\zxing.presentation.dll
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\zxing.xml
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\zxing.presentation.xml
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\AForge.dll
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\AForge.xml
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\AForge.Video.xml
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Deven Jadhav Sir\source\repos\Barcode\bin\Debug\AForge.Video.DirectShow.xml
+K:\My Drive\Barcode\obj\Debug\Barcode.csproj.AssemblyReference.cache
+K:\My Drive\Barcode\obj\Debug\Barcode.csproj.SuggestedBindingRedirects.cache
+K:\My Drive\Barcode\obj\Debug\Barcode.AlertBoxOK.resources
+K:\My Drive\Barcode\obj\Debug\Barcode.AlertBoxYesNo.resources
+K:\My Drive\Barcode\obj\Debug\Barcode.Barcodegenerater.resources
+K:\My Drive\Barcode\obj\Debug\Barcode.barcodescanner.resources
+K:\My Drive\Barcode\obj\Debug\Barcode.forgotpassword.resources
+K:\My Drive\Barcode\obj\Debug\Barcode.login.resources
+K:\My Drive\Barcode\obj\Debug\Barcode.manageprofile.resources
+K:\My Drive\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+K:\My Drive\Barcode\obj\Debug\Barcode.register.resources
+K:\My Drive\Barcode\obj\Debug\Barcode.splash.resources
+K:\My Drive\Barcode\obj\Debug\Barcode.userdashboard.resources
+K:\My Drive\Barcode\obj\Debug\Barcode.csproj.GenerateResource.cache
+K:\My Drive\Barcode\obj\Debug\Barcode.csproj.CoreCompileInputs.cache
+K:\My Drive\Barcode\obj\Debug\Barcode.exe
+K:\My Drive\Barcode\obj\Debug\Barcode.pdb
+K:\My Drive\Barcode\bin\Debug\Barcode.exe.config
+K:\My Drive\Barcode\bin\Debug\Barcode.exe
+K:\My Drive\Barcode\bin\Debug\Barcode.pdb
+K:\My Drive\Barcode\bin\Debug\AForge.Video.DirectShow.dll
+K:\My Drive\Barcode\bin\Debug\AForge.Video.dll
+K:\My Drive\Barcode\bin\Debug\Bunifu_UI_v1.52.dll
+K:\My Drive\Barcode\bin\Debug\Guna.UI2.dll
+K:\My Drive\Barcode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+K:\My Drive\Barcode\bin\Debug\System.Buffers.dll
+K:\My Drive\Barcode\bin\Debug\System.Drawing.Common.dll
+K:\My Drive\Barcode\bin\Debug\System.Memory.dll
+K:\My Drive\Barcode\bin\Debug\System.Numerics.Vectors.dll
+K:\My Drive\Barcode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+K:\My Drive\Barcode\bin\Debug\System.Text.Encodings.Web.dll
+K:\My Drive\Barcode\bin\Debug\System.Text.Json.dll
+K:\My Drive\Barcode\bin\Debug\System.Threading.Tasks.Extensions.dll
+K:\My Drive\Barcode\bin\Debug\System.ValueTuple.dll
+K:\My Drive\Barcode\bin\Debug\Zen.Barcode.Core.dll
+K:\My Drive\Barcode\bin\Debug\zxing.dll
+K:\My Drive\Barcode\bin\Debug\zxing.presentation.dll
+K:\My Drive\Barcode\bin\Debug\AForge.dll
+K:\My Drive\Barcode\bin\Debug\AForge.Video.xml
+K:\My Drive\Barcode\bin\Debug\AForge.Video.DirectShow.xml
+K:\My Drive\Barcode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+K:\My Drive\Barcode\bin\Debug\System.Buffers.xml
+K:\My Drive\Barcode\bin\Debug\System.Memory.xml
+K:\My Drive\Barcode\bin\Debug\System.Numerics.Vectors.xml
+K:\My Drive\Barcode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+K:\My Drive\Barcode\bin\Debug\System.Text.Encodings.Web.xml
+K:\My Drive\Barcode\bin\Debug\System.Text.Json.xml
+K:\My Drive\Barcode\bin\Debug\System.Threading.Tasks.Extensions.xml
+K:\My Drive\Barcode\bin\Debug\System.ValueTuple.xml
+K:\My Drive\Barcode\bin\Debug\zxing.xml
+K:\My Drive\Barcode\bin\Debug\zxing.presentation.xml
+K:\My Drive\Barcode\bin\Debug\AForge.xml
+K:\My Drive\Barcode\obj\Debug\Barcode.csproj.CopyComplete
